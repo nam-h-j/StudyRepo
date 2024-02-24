@@ -18,7 +18,7 @@ which python3
 ls -l /usr/local/bin/python*
 // or
 ls -l /opt/homebrew/bin/python*
-​```
+```
 
 ## 알리아스 설정해 주기
 ```
