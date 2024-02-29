@@ -1,4 +1,4 @@
-```
+```js
 function timeout (funcName){
    console.log('run time out ', funcName)
 }
